@@ -26,7 +26,7 @@
                  (not (or (string-equal dirname ".")
                           (string-equal dirname "..")
                           (string-equal dirname ".git")
-						  (string-equal dirname "gnupg")
+                          (string-equal dirname "gnupg")
                           (string-equal dirname "archives"))))
         (funcall fn dir)))))
 
