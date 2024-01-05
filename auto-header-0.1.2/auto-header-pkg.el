@@ -1,0 +1,2 @@
+;; Generated package description from auto-header.el  -*- no-byte-compile: t -*-
+(define-package "auto-header" "0.1.2" "Automatically find the right C headers" 'nil :commit "f366c1bf15abd33a8c035438b68b6b854bf2bd1a" :authors '(("Philip Kaludercic" . "philipk@posteo.net")) :maintainer '("Philip Kaludercic" . "~pkal/public-inbox@lists.sr.ht") :keywords '("c") :url "https://git.sr.ht/~pkal/auto-header")

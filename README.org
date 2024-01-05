@@ -1,0 +1,9 @@
+* INIT
+
+
+#+BEGIN_SRC bash
+  git clone --depth 1 https://github.com/eastwoodeer/elpa.git
+  cd elpa
+  chmod +x byte_compile.el
+  ./byte_compile.el
+#+END_SRC
