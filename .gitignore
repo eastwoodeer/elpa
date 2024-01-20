@@ -5,6 +5,7 @@
 *.7z
 *.tbz
 *.signed
+.DS_Store
 
 # ignore directory
 archives/
