@@ -6,6 +6,7 @@
 *.tbz
 *.signed
 .DS_Store
+*.so
 
 # ignore directory
 archives/
