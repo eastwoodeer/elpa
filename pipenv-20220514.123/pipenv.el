@@ -5,8 +5,7 @@
 ;; Author: Paul Walsh <paulywalsh@gmail.com>
 ;; URL: https://github.com/pwalsh/pipenv.el
 ;; Package-Version: 20220514.123
-;; Package-Commit: 3af159749824c03f59176aff7f66ddd6a5785a10
-;; Version: 0.0.1-beta
+;; Package-Revision: 3af159749824
 ;; Package-Requires: ((emacs "25.1") (s "1.12.0") (pyvenv "1.20") (load-env-vars "0.0.2"))
 
 ;; This program is free software; you can redistribute it and/or modify
