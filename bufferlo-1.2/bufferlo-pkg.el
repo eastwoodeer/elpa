@@ -1,2 +1,0 @@
-;; Generated package description from bufferlo.el  -*- mode: lisp-data; no-byte-compile: t -*-
-(define-package "bufferlo" "1.2" "Frame/Tab Local Buffer Lists with Persistence" '((emacs "29.1")) :commit "8fc587ba341b2ec8189b4d948accc90140469147" :authors '(("Florian Rommel" . "mail@florommel.de") ("Stephane Marks" . "shipmints@gmail.com")) :maintainer '(("Florian Rommel" . "mail@florommel.de") ("Stephane Marks" . "shipmints@gmail.com")) :keywords '("buffer" "frame" "tabs" "local") :url "https://github.com/florommel/bufferlo")
