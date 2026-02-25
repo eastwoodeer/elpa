@@ -11,3 +11,6 @@
 # ignore directory
 archives/
 gnupg/
+
+# ignore vterm builds
+vterm-*/build/
