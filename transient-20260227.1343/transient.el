@@ -6,8 +6,8 @@
 ;; Homepage: https://github.com/magit/transient
 ;; Keywords: extensions
 
-;; Package-Version: 20260223.946
-;; Package-Revision: aa033dc68541
+;; Package-Version: 20260227.1343
+;; Package-Revision: 6e7c07a7f636
 ;; Package-Requires: (
 ;;     (emacs   "28.1")
 ;;     (compat  "30.1")
@@ -36,6 +36,12 @@
 ;; Transient is the library used to implement the keyboard-driven menus
 ;; in Magit.  It is distributed as a separate package, so that it can be
 ;; used to implement similar menus in other packages.
+
+;; You can contact the maintainer of this package by sending an email to
+;; <emacs.transient@jonas.bernoulli.dev>, or you can use the public issue
+;; tracker at <https://github.com/magit/transient>.  The latter can also
+;; be accessed using the `forge' package, which lets you avoid the sadly
+;; non-free javascript on that website.
 
 ;;; Code:
 
