@@ -7,6 +7,7 @@
 *.signed
 .DS_Store
 *.so
+*.dylib
 
 # ignore directory
 archives/
