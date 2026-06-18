@@ -1,4 +1,4 @@
-#!emacs -x
+#!/usr/bin/env -S emacs -x
 
 ;;; Code:
 
