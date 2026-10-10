@@ -1,4 +1,5 @@
 #!/usr/bin/env -S emacs -x
+;; -*- lexical-binding: t; -*-
 
 ;;; Code:
 
