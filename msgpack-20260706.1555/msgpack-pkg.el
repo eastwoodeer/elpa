@@ -1,0 +1,8 @@
+;; -*- no-byte-compile: t; lexical-binding: nil -*-
+(define-package "msgpack" "20260706.1555"
+  "Read and write MessagePack object."
+  '((emacs "25.1"))
+  :url "https://github.com/xuchunyang/msgpack.el"
+  :commit "5353a7b2da854c843cbec4536996242001f63471"
+  :revdesc "5353a7b2da85"
+  :keywords '("lisp"))
