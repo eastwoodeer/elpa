@@ -1,0 +1,2 @@
+;; Generated package description from scroll-restore.el  -*- no-byte-compile: t -*-
+(define-package "scroll-restore" "1.0" "restore original position after scrolling" 'nil :commit "af8f3beae533c030d4899c235473aa15bfcb2010" :url "https://elpa.gnu.org/packages/scroll-restore.html" :authors '(("Martin Rudalics" . "rudalics@gmx.at")) :maintainer '("Martin Rudalics" . "rudalics@gmx.at") :keywords '("scrolling"))
